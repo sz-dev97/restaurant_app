@@ -12,7 +12,7 @@ class RestaurantApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Health App UI',
+      title: 'Health App UI Design ',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         fontFamily: 'Poppins', // Highly recommended to add Google Fonts 'Poppins' to pubspec.yaml for exact typography match
